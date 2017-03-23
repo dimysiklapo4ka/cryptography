@@ -7,7 +7,7 @@ import static java.lang.Character.isUpperCase;
 /**
  * Created by d1mys1klapo4ka on 21.03.2017.
  */
-public class EncriptionOfCaesarAndVigenere {
+class EncriptionOfCaesarAndVigenere {
 
     char[] encriptionTextByCaesarCipher(char[] text_for_encoding, int key_for_encryption_of_Caesar){
 
